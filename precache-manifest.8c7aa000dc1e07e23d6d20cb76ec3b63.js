@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf3bdf391377f8bea718b1cd1915e89f",
+    "revision": "3ff81d74393f57edb43c4618cee2551e",
     "url": "/vchess/index.html"
   },
   {
-    "revision": "8c5475fe9abc5029a5cb",
-    "url": "/vchess/static/css/main.506aa160.chunk.css"
+    "revision": "5829df0de906a40515da",
+    "url": "/vchess/static/css/main.6141d290.chunk.css"
   },
   {
     "revision": "ca0db314707add377baf",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vchess/static/js/2.c1c3c4ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c5475fe9abc5029a5cb",
+    "revision": "5829df0de906a40515da",
     "url": "/vchess/static/js/main.7c23db31.chunk.js"
   },
   {
     "revision": "c286fdfcb0e5afc9c989",
     "url": "/vchess/static/js/runtime-main.0c44992e.js"
+  },
+  {
+    "revision": "dd29172c0118e0f9da57a1d846913676",
+    "url": "/vchess/static/media/LUCEFONT.dd29172c.TTF"
   },
   {
     "revision": "a661a105283de8ebba4666a300b18ae9",

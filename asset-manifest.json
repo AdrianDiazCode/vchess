@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vchess/static/css/main.506aa160.chunk.css",
+    "main.css": "/vchess/static/css/main.6141d290.chunk.css",
     "main.js": "/vchess/static/js/main.7c23db31.chunk.js",
     "main.js.map": "/vchess/static/js/main.7c23db31.chunk.js.map",
     "runtime-main.js": "/vchess/static/js/runtime-main.0c44992e.js",
@@ -8,10 +8,11 @@
     "static/js/2.c1c3c4ae.chunk.js": "/vchess/static/js/2.c1c3c4ae.chunk.js",
     "static/js/2.c1c3c4ae.chunk.js.map": "/vchess/static/js/2.c1c3c4ae.chunk.js.map",
     "index.html": "/vchess/index.html",
-    "precache-manifest.dcd9dc40f876122a5712c476ce1950e9.js": "/vchess/precache-manifest.dcd9dc40f876122a5712c476ce1950e9.js",
+    "precache-manifest.8c7aa000dc1e07e23d6d20cb76ec3b63.js": "/vchess/precache-manifest.8c7aa000dc1e07e23d6d20cb76ec3b63.js",
     "service-worker.js": "/vchess/service-worker.js",
-    "static/css/main.506aa160.chunk.css.map": "/vchess/static/css/main.506aa160.chunk.css.map",
+    "static/css/main.6141d290.chunk.css.map": "/vchess/static/css/main.6141d290.chunk.css.map",
     "static/js/2.c1c3c4ae.chunk.js.LICENSE.txt": "/vchess/static/js/2.c1c3c4ae.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/vchess/static/media/LUCEFONT.dd29172c.TTF",
     "static/media/donation_request.wav": "/vchess/static/media/donation_request.a661a105.wav",
     "static/media/ear.png": "/vchess/static/media/ear.20e2bf1a.png",
     "static/media/failure.mp3": "/vchess/static/media/failure.5acd1a08.mp3",
@@ -24,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.0c44992e.js",
     "static/js/2.c1c3c4ae.chunk.js",
-    "static/css/main.506aa160.chunk.css",
+    "static/css/main.6141d290.chunk.css",
     "static/js/main.7c23db31.chunk.js"
   ]
 }
