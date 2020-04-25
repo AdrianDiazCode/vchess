@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c996ca343566d1f671dfb745f2ab1cc3",
+    "revision": "0b07b60e18198e932f1d6a6b5dd28e61",
     "url": "/vchess/index.html"
   },
   {
-    "revision": "2419d9c7669145a99657",
+    "revision": "8fab7c74d550376357d4",
     "url": "/vchess/static/css/main.6141d290.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vchess/static/js/2.c1c3c4ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2419d9c7669145a99657",
-    "url": "/vchess/static/js/main.334634fd.chunk.js"
+    "revision": "8fab7c74d550376357d4",
+    "url": "/vchess/static/js/main.0ef0d7c2.chunk.js"
   },
   {
     "revision": "c286fdfcb0e5afc9c989",
