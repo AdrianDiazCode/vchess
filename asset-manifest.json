@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vchess/static/css/main.6141d290.chunk.css",
-    "main.js": "/vchess/static/js/main.03a45017.chunk.js",
-    "main.js.map": "/vchess/static/js/main.03a45017.chunk.js.map",
+    "main.js": "/vchess/static/js/main.334634fd.chunk.js",
+    "main.js.map": "/vchess/static/js/main.334634fd.chunk.js.map",
     "runtime-main.js": "/vchess/static/js/runtime-main.0c44992e.js",
     "runtime-main.js.map": "/vchess/static/js/runtime-main.0c44992e.js.map",
     "static/js/2.c1c3c4ae.chunk.js": "/vchess/static/js/2.c1c3c4ae.chunk.js",
     "static/js/2.c1c3c4ae.chunk.js.map": "/vchess/static/js/2.c1c3c4ae.chunk.js.map",
     "index.html": "/vchess/index.html",
-    "precache-manifest.bcc4901c67cc98c5237840fea4cb0b27.js": "/vchess/precache-manifest.bcc4901c67cc98c5237840fea4cb0b27.js",
+    "precache-manifest.ced6fcded9d7333573df04a49abb94c2.js": "/vchess/precache-manifest.ced6fcded9d7333573df04a49abb94c2.js",
     "service-worker.js": "/vchess/service-worker.js",
     "static/css/main.6141d290.chunk.css.map": "/vchess/static/css/main.6141d290.chunk.css.map",
     "static/js/2.c1c3c4ae.chunk.js.LICENSE.txt": "/vchess/static/js/2.c1c3c4ae.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.0c44992e.js",
     "static/js/2.c1c3c4ae.chunk.js",
     "static/css/main.6141d290.chunk.css",
-    "static/js/main.03a45017.chunk.js"
+    "static/js/main.334634fd.chunk.js"
   ]
 }
