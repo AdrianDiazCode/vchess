@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b07b60e18198e932f1d6a6b5dd28e61",
+    "revision": "f2282dfa7ecd3dd7efc54906f706406f",
     "url": "/vchess/index.html"
   },
   {
-    "revision": "8fab7c74d550376357d4",
-    "url": "/vchess/static/css/main.6141d290.chunk.css"
+    "revision": "ecf76109d5c3ad022724",
+    "url": "/vchess/static/css/main.5b38a613.chunk.css"
   },
   {
-    "revision": "ca0db314707add377baf",
-    "url": "/vchess/static/js/2.c1c3c4ae.chunk.js"
+    "revision": "7267bfbfcd8eae4cb276",
+    "url": "/vchess/static/js/2.c8f0ad4a.chunk.js"
   },
   {
-    "revision": "0b79ce434c8d9620c5369b07d77f19c3",
-    "url": "/vchess/static/js/2.c1c3c4ae.chunk.js.LICENSE.txt"
+    "revision": "642aa14620729e19ee3ea72165953b5a",
+    "url": "/vchess/static/js/2.c8f0ad4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fab7c74d550376357d4",
-    "url": "/vchess/static/js/main.0ef0d7c2.chunk.js"
+    "revision": "ecf76109d5c3ad022724",
+    "url": "/vchess/static/js/main.93bd6d26.chunk.js"
   },
   {
     "revision": "c286fdfcb0e5afc9c989",
